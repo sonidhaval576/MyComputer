@@ -1,2 +1,2 @@
-# MyComputer
-Containes All Project Folders
+# my-react
+Containes My-react project files
